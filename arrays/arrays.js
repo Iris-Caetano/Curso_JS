@@ -22,7 +22,8 @@ let frutas = ["Maça", "Pera"]
 
 let nomes = ["Iris", "Ingrid", "Carlos"]
 
-// ele aplica para todos os itens da lista 
-nomes.forEach((elemento) => {
-    console.log(`Bom dia ${elemento}`);  
-})
+// // ele aplica para todos os itens da lista 
+// nomes.forEach((elemento) => {
+//     console.log(`Bom dia ${elemento}`);  
+// })
+
